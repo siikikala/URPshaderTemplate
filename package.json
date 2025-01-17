@@ -1,0 +1,7 @@
+{
+  "name": "com.example.urp_shader_template",
+  "displayName": "URPshaderTemplate",
+  "version": "1.0.0",
+  "description": "Adds a template to unity to create a blank urp compliant shader",
+  "unity": "2022.3"
+}
